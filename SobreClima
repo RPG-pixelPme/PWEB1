@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Impactos Climáticos</title>
+    <meta charset="utf-8">
+    <h1>As mudanças climáticas e seus impactos no Brasil</h1>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <img scr="https://blog.brkambiental.com.br/wp-content/uploads/2021/01/mudan%C3%A7as-clim%C3%A1ticas.jpg" 
+    alt="Ilustração de Crise Ambiental" width="500" lenght="250">
+    <p style="text-align:center">  <br />
+        Em uma série de relatórios da ONU, milhares de cientistas e analistas de governos concordaram que limitar o aumento da temperatura global a não mais que 1,5 °C nos ajudaria a evitar os piores impactos climáticos e a manter um clima habitável."</p>
+<p No entanto, com base nos atuais planos climáticos nacionais, o aquecimento global deverá atingir cerca de 3,2 °C até o final do século.></p>;
+<div>
+    <p style="border: 2;"
+    As concentrações de gases de efeito estufa estão em seus níveis mais altos em 2 milhões de anos</p>
+
+
+</div>
+
+  </body>
+</html>
